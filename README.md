@@ -7,6 +7,7 @@ Alarm app is a mobile application designed to help users wake up on time by prov
  <img src="https://github.com/dakshgodara2001/AlarmApp/blob/master/images/Screenshot_20230202_015352.png" width="250" style="margin: 0 20px;"> 
 </p>
 
+
 ## Features
 - Set alarms for specific times
 - Recieve notification at alarm time.
