@@ -1,7 +1,7 @@
 # AlarmApp
 Alarm app is a mobile application designed to help users wake up on time by providing an alarm clock feature. It allows users to set an alarm for a specific time and recieve a notification at that particular time.
 
-<p>
+<p align="center">
  <img src="https://github.com/dakshgodara2001/AlarmApp/blob/master/images/Screenshot_20230202_015323.png" width="250" style="margin: 0 20px;">
  <img src="https://github.com/dakshgodara2001/AlarmApp/blob/master/images/Screenshot_20230202_015218.png" width="250" style="margin: 0 20px;">
  <img src="https://github.com/dakshgodara2001/AlarmApp/blob/master/images/Screenshot_20230202_015352.png" width="250" style="margin: 0 20px;"> 
